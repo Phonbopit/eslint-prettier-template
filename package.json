@@ -1,0 +1,8 @@
+{
+  "name": "starter-template",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint src --color",
+    "format": "./node_modules/.bin/prettier --write '{src/**/*.js,test/**/*.js}'"
+  }
+}
